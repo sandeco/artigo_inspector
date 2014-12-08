@@ -1,0 +1,2 @@
+artigo_inspector
+================
